@@ -1,0 +1,23 @@
+main{
+display: flex;
+flex-direction: row;
+flex: auto;
+}
+
+body {
+display: flex;
+flex-direction: column;
+}
+
+article{
+flex:2;
+overflow-y: auto;
+background-color: rgb(29, 226, 226);
+border-color: black;  
+}
+
+aside{
+flex:1;
+overflow-y: auto;
+background-color: brown;
+}
