@@ -1,1 +1,1 @@
-This is the advanced HTML project.
+![Ange's picture](/html_advanced/Photo%20Pxl.jpg)
